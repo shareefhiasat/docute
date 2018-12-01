@@ -309,7 +309,7 @@ docute.init({
   nav: [{
     title: 'Chinese',
     path: '/language/chinese',
-    source: '/language/chinese-foo.md'
+    source: '/language/chinese-foo.md',
     // or even external file
     source: 'https://raw.githubusercontent.com/user/repo/master/file.md'
   }]

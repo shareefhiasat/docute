@@ -203,7 +203,7 @@ A path like `/language/chinese` will make docute fetch `/language/chinese.md`, y
 {
   title: 'Chinese',
   path: '/language/chinese',
-  source: '/language/chinese-foo.md'
+  source: '/language/chinese-foo.md',
   // or even external file
   source: 'https://raw.githubusercontent.com/user/repo/master/file.md'
 }
