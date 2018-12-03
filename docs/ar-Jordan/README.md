@@ -19,7 +19,7 @@ Create Events Fast And Easily Check Our Website  [Sajilni.com](https://www.sajil
 To start using **Sajilni** as Organizer you have to [sign up first](https://www.sajilni.com) its pretty easy, I will show you how.
 ![Sign Up Process](/assets/sajilni-sign-up.gif)
 
-[Sign Up Full Vedio](./assets/sajilni-signup.webm)
+[Sign Up Full Vedio]("/assets/sajilni-signup.webm")
 
 1. Just go to, [https://www.sajilni.com](https://www.sajilni.com) and do sign up with your email address
 
@@ -37,8 +37,6 @@ To start using **Sajilni** as Organizer you have to [sign up first](https://www.
 
 
 
-
-
 ### 2. Login
 
 Login process is clear and straightforward have a look
@@ -50,9 +48,7 @@ Login process is clear and straightforward have a look
 
 
 
-
-
-## Sajilni Screens
+## Sajilni Screen
 
 This document is divided into **Following** main parts:
 
@@ -72,8 +68,6 @@ This document is divided into **Following** main parts:
 
 When you go to your browser and enter https://www.sajilni.com this will take you to Sajilni, it consists of :
 
-
-
 #### 1.1 Header
 
 ![Sajilni-header](/assets/sajilni-header.png)
@@ -86,15 +80,13 @@ When you go to your browser and enter https://www.sajilni.com this will take you
 
 3. [Change Language](https://www.sajilni.com/?lang=ar)
 
-4. Sajilni Social Medial [Facebook](https://web.facebook.com/sajilni),  [Twitter](https://twitter.com/sajilni) and, [Instagram](https://www.instagram.com/sajilni/)
+4. Sajilni Social Medial [FaceBook](https://web.facebook.com/sajilni),  [Twitter](https://twitter.com/sajilni) and, [Instagram](https://www.instagram.com/sajilni/)
 
 5. [Static Pages About Sajilni](https://www.sajilni.com/info/sell-with-us.html)
 
 6. [Sign Up](https://www.sajilni.com/user/signup.html)
 
 7. [Login](https://www.sajilni.com/user/login.html)
-
-
 
 #### 1.2 Footer
 
@@ -108,10 +100,6 @@ When you go to your browser and enter https://www.sajilni.com this will take you
 6. [Terms Of Service](https://www.sajilni.com/info/terms-of-service.html)
 7. [Privacy Terms](https://www.sajilni.com/info/privacy-policy.html)
 
-
-
-
-
 #### 1.3 Menu
 
 ![sajilni profile page menu](/assets/sajilni-profile-home-page.png)
@@ -121,13 +109,9 @@ When you go to your browser and enter https://www.sajilni.com this will take you
 3. [My Profile](https://www.sajilni.com/user/profile.html), shows your profile from admin side
 4. [Logout](https://www.sajilni.com/user/logout.html) from Sajilni
 
-
-
 #### 1.4 Featured Part
 
 When you open [Sajilni.com](https://www.sajilni.com) the biggest part of the screen on top, shows images in featured part, to be seen first.
-
-
 
 #### 1.5 Search Criteria
 
@@ -148,7 +132,6 @@ When you open [Sajilni.com](https://www.sajilni.com) the biggest part of the scr
    1. Pick a date
 
    2. Click on Search
-
 
 
 #### 1.6 Search Results
@@ -189,13 +172,9 @@ about the event with, Gallery, Video, Count Down, Special Conditions, Special In
 
 [Example Of An Event Page](https://www.sajilni.com/event/horeca-jordan-2018)
 
-
-
 #### 2.1 Featured Image
 
 The main image for event page that covers most of the screen first look
-
-
 
 #### 2.2 Information Bar (Sticky)
 
@@ -203,13 +182,9 @@ It shows Event Name, Place, Date And Time, as well as the Buy Button
 
 ![event-page-sticky-part](/assets/event-page-sticky-part.png)
 
-
-
 #### 2.3 Event Details
 
 Its where we can put (What you see is what you get) from editor in add/edit event (later @TODO link)
-
-
 
 #### 2.4 Social Media Part
 
@@ -219,23 +194,17 @@ From here you can share the event page on [Facebook](www.facebook.com), [Twitter
 
 
 
-
-
 #### 2.5 Gallery
 
 Images related to the event
 
 ![event-page-gallery-part](/assets/event-page-gallery-part.png)
 
-
-
 #### 2.6 Venue Google Map
 
 Map at the bottom of the page shows the venue location
 
 ![event-page-google-maps](/assets/event-page-google-map.png)
-
-
 
 #### 2.7 Special Instructions, and Conditions
 
@@ -249,11 +218,7 @@ Guidance of rule for the event, and instructions, like parking, or meal, etc..
 
 
 
-
-
 ### 3. Organizer Page
-
-
 
 #### 3.1 Featured Part
 
@@ -261,15 +226,9 @@ This part has, organizer image, and information about [youtube](www.youtube.com)
 
 ![organizer-page-featured](/assets/organizer-page-featured.png)
 
-
-
 #### 3.2 List of organizer event
 
 ![organizer-page-event-list](/assets/organizer-page-event-list.png)
-
-
-
-
 
 ### 4. Buy Ticket Process
 
@@ -277,11 +236,7 @@ Whenever you see the green (**Buy Tickets button**) you can click to start buyin
 
 ![buyticket-button](/assets/buyticket-button.png)
 
-
-
 #### 4.1 Buying Steps
-
-
 
 ##### 4.1.1 Step  - Ticket List
 
@@ -302,10 +257,8 @@ Whenever you see the green (**Buy Tickets button**) you can click to start buyin
   * Ticket Count
   * **Of course** there is many rules that determine *what and when* to show these tickets, and to who.
 
-  1.  ( @TODO Add Link To Check Event Settings and Privacy)
-  2.  ( @TODO Add Link To Check Ticket Settings and Privacy)
-
-
+  1.  ( @TODOCheck Event Settings and Privacy)
+  2.  (@TODOCheck Ticket Settings and Privacy)
 
 ##### 4.1.2 Step - Ticket Forms (Configurable)
 
@@ -315,7 +268,7 @@ Whenever you see the green (**Buy Tickets button**) you can click to start buyin
 
 ![buy-process-forms-button](/assets/forms-buy-button.png)
 
-* If no forms exists, then you shall see either **Payment** button or **Extra(Other) services** button.@TODO (Add Link To form edit in event) and (Extra service part)
+* If no forms exists, then you shall see either **Payment** button or **Extra(Other) services** button.@TODO (link to form edit in event) and (Extra service part)
 
 ![optional-service-button](/assets/optional-service-button.png)
 
@@ -329,8 +282,6 @@ Whenever you see the green (**Buy Tickets button**) you can click to start buyin
 
   ![buyticket-form-explained](/assets/buying-ticket-form-explained.png)
 
-
-
 ##### 4.1.2 Step - Optional Service (Optional)
 
 * In some cases, Sajilni gives you ability to ask custom if he wants to have for free, or buy some kind of service, like Hotel Room, Or Valet Parking , Even a visa letter, if needed. (@TODO link to extra service in add event)
@@ -340,8 +291,6 @@ Whenever you see the green (**Buy Tickets button**) you can click to start buyin
 * And user can either choose to skip by clicking on *No,Thanks* or continue to payment after entering the quantity he wants for *Extra Service*
 
   ![buy-ticket-extra-service-explained](/assets/buyticet-extra-service-explained.png)
-
-
 
 
 
@@ -377,10 +326,6 @@ We have the following payment methods:
 
 # Sajilni Dashboard
 
-
-
-
-
 ## 1. Main View Of Dashboard
 
 Here you can see the left black pane, which has many menus to choose from.
@@ -392,17 +337,11 @@ At the top right you can see your avatar, if you click on it you can then:
 * See your buyer Dashboard
 * See your Events
 
-
-
 ## 2. Menu
-
-
 
 ### 2.1 Dashboard
 
 ![dashboard-first-view](/assets/dashboard-first-view.png)
-
-
 
 ### 2.2 My Events
 
@@ -418,15 +357,9 @@ Search for your events by its status,
 
 ![my-events](/assets/my-events.png)
 
-
-
-
-
 ### 2.3 Orders
 
 You can view the orders you have on a specific event, and ability to filter,export, and do other operations.
-
-
 
 #### 2.3.1 Orders
 
@@ -434,19 +367,13 @@ You can view the orders you have on a specific event, and ability to filter,expo
 
 Orders page, has many operations embedded for user convenience:
 
-
-
 ##### 	2.3.1.1 Order operation overview
 
 ![order-operations](/assets/order-operations.png)
 
-
-
 ##### 2.3.1.2 Retrieve
 
 If you accidently deleted an order you can retrieve it.
-
-
 
 ##### 2.3.1.3 Complete
 
@@ -460,37 +387,25 @@ You have the option along with the complete operation, to send confirmation of t
 
 
 
-
-
 ##### 2.3.1.4 Delivered
 
 Mark the order as delivered, either via email which the system will mark, or buy choosing this operation in case like Cash On Delivery.
-
-
 
 ##### 2.3.1.5 Delete
 
 Delete and order will make its status as Deleted, and the quantity will be released and become sellable to other buyers.
 
-
-
 ##### 2.3.1.6 Check Payment
 
 Mark from accountant, its flag so accountant can audit the orders, and he can add some notes on the orders such as **Log**.
-
-
 
 ##### 2.3.1.7 Resend Tickets
 
 Resending tickets, is normally used to send the email which contains the tickets you bought, you can change the email address to send it to other addresses, or same buyer address, in case he did not receive it or deleted by mistake.
 
-
-
 ##### 2.3.1.8 Resend Payment Confirmation
 
 Resending the Payment Confirmation Email for buyer, upon request or for testing etc..
-
-
 
 ##### 2.3.1.9 Print Tickets
 
@@ -508,25 +423,17 @@ It has many options,
 
 ![print-ticket-dialog](/assets/print-ticket-dialog.png)
 
-
-
 ##### 2.3.1.10 Send SMS Ticket Url
 
 If you have your SMS configured, you can send buyer SMS with URL to download his ticket on his mobile.
-
-
 
 ##### 2.3.1.11 Resend SMS With Confirmation
 
 If you have you SMS configured, you can send buyer SMS with Order/Payment Confirmation and number.
 
-
-
 ##### 2.3.1.12 Send Email
 
 If you want you can send custom email for Order buyer.
-
-
 
 ##### 2.3.1.13 Log
 
@@ -548,17 +455,11 @@ One of the tickets privacies, is ticket by request, where the client sees only t
 
 ![byrequest-operations](/assets/byrequest-operations.png)
 
-
-
-
-
 ### 2.4 Manage Seating
 
 ![manage-seating-menu](/assets/manage-seating-menu.png)
 
 Manage all your seating charted event, the way you like it
-
-
 
 #### 2.4.1 Seating Chart Builder
 
@@ -579,14 +480,11 @@ Seating Chart Builder is tool to build your canvas,  with seats, for your
   ![example-seating-chart-editor](/assets/seating-chart-editor.png)
 
 
-
 #### 2.4.2 Disable/Enable Seats
 
 Click, Un Click to block some seats or sections, for really important guests.
 
 ![enable-disable-seats](/assets/enable-disable-seats.png)
-
-
 
 #### 2.4.3 Assign Seats
 
@@ -594,17 +492,11 @@ Assign seats, now you can change someone seat to any other seat as relocation, o
 
 ![assign-seats](/assets/assign-seats.png)
 
-
-
-
-
 ### 2.5 Manage ACL
 
 You Access Location is important, yes its for scanning feature, freely customize you rules for scanning, as it goes for your needs.
 
 ![manage-acl](/assets/manage-acl.png)
-
-
 
 #### 2.5.1 ACL
 
@@ -632,8 +524,6 @@ Here you define rules, and how it relates to ticket types
   * span/grace period between scans
   * Checkout is required, after each check in
 
-
-
 #### 2.5.2 ACL User Products
 
 Define each cash agent, what tickets he can sell
@@ -654,8 +544,6 @@ To add a user product let see from inside, there is a lot of things:
 
 ![add-acl-product](/assets/acl-product-add-page.png)
 
-
-
 #### 2.5.3 ACL Users
 
 ![acl-users](/assets/acl-users.png)
@@ -663,8 +551,6 @@ To add a user product let see from inside, there is a lot of things:
 This screen job is to link users to their corresponding **ACL**defined here @TODO add link to acl ; interesting thing in this add **ACL**user screen is, you can define working hours for an agent e.g agent can scan for 4 hours only, this is another level of rules too.
 
 ![add-acl-users](/assets/add-acl-users.png)
-
-
 
 
 
@@ -699,25 +585,17 @@ In **Reports** page you can 	analyse you event from different views
 
 ![reports-first-view](/assets/reports-first-view.png)
 
-
-
-
-
 ### 2.7 Mail
 
 ![mail-menu](/assets/mail-menu.png)
 
 Manage your campaigns, and send email to promote your event, via invitations, or marketing.
 
-
-
 #### 2.7.1 Send Emails
 
 Send, emails with customized content, just write what you want
 
 ![send-emails](/assets/send-emails.png)
-
-
 
 #### 2.7.2 Email Tracker
 
@@ -727,23 +605,17 @@ Follow-up your sent emails via our Email API
 
 
 
-
-
 #### 2.7.3 Mail Builder
 
 Customize your email mail templates.
 
 ![mail-builder-ui](/assets/mail-builder-UI.png)
 
-
-
 #### 2.7.4 Invitations
 
 You can send invitation to emails, to buy specific tickets, with privacy invitation by email @TODO(add link to privacy invitation), where user can accept the invitation which will direct him, to buying process flow, for that specific invitation ticket type, and client shall continue buying it.
 
 ![invitation-email](/assets/add-invitation.png)
-
-
 
 ### 2.8 Manage Users
 
@@ -757,21 +629,15 @@ When you sign up you shall have Organizer Role, then you can create sub users fo
 
 * And many more
 
-
-
   #### 2.8.1 Users Grid
 
   ![users-grid](/assets/users-grid.png)
-
-
 
   #### 2.8.2 Add User Screen (Basic Details)
 
   ![add-user](/assets/add-user.png)
 
-
-
-  #### 2.8.3 Add User Details (Detailed Details)
+  ##### 2.8.3 Add User Details (Detailed Details)
 
   You can add for user:
 
@@ -785,17 +651,11 @@ When you sign up you shall have Organizer Role, then you can create sub users fo
 
   ![add-user-details](/assets/add-user-details-screen.png)
 
-
-
-
-
 ### 2.9 Tools
 
 ![tools-menu](/assets/tools-menue.png)
 
 Here is set of custom tools to make life easier for Sajilni organizers.
-
-
 
 #### 2.9.1 Draw
 
@@ -803,9 +663,7 @@ This feature is for lottery, it will pick dynamically, and randomly a winner for
 
 [Full Vedio Of Draw Process](/assets/draw-process.mp4)
 
-
-
-#### 2.9.2 Ticket Builder
+#### 2.9.2Ticket Builder
 
 Create customize your tickets, either you wanted, 
 
@@ -818,8 +676,6 @@ Create customize your tickets, either you wanted,
 ![ticket-builder](/assets/ticket-builder-1.png)
 
 [Ticket Builder Short Vedio]("/assets/ticket-builder-3.webm")
-
-
 
 #### 2.9.3 Check-in Tickets
 
@@ -840,8 +696,6 @@ This feature is for scanning tickets from POS, point where you may have laptop a
 
 ![checkin-page](/assets/checkin-page.png)
 
-
-
 #### 2.9.4 Print Badges
 
 Useful screen to print a lot of badges, for pre registrants.
@@ -850,6 +704,26 @@ Useful screen to print a lot of badges, for pre registrants.
 
 
 
+## 3. Add Event
+
+
+
+
+
+
+# Sajilni Styling
+
+## 1. Style Event Page
+
+sdf
+
+## 2. Style Buying Process
+
+sadf
+
+# Sajilni Buyer Dashboard
+
+enter titles for parts here
 
 ## Contact Us
 
@@ -909,4 +783,4 @@ Dubai Internet City, Building #1- Office 116
 
 ### Reach To Our Email
 
-Any Time You Can Contact [info@sajilni.com](info@sajilni.com)
+Any Time You Can Contact info@sajilni.com.
