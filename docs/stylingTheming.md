@@ -8,8 +8,8 @@ search: english
 
 Sajilni has power, in customizing not only behaviour but also, your event look and feel, of **Event page** and **Buy Process**
 
-* [Check How New Event Page Without Styling/Images Looks Like](/assets/event-before-any-customization.webm)
-* [Check How New Buy Ticket Without Styling/Images Looks Like](/assets/buyticket-normal.png)
+* [Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm)
+* [Check How New Buy Ticket Without Styling/Images Looks Like](./assets/buyticket-normal.png)
 
 
 
@@ -21,7 +21,7 @@ You can customize your **Event Page** for the following parts:
 
 You can set the styling/Customizations from Add/Edit Event page @TODO add link to add event, one thing to note here is the size of the image, although the site is responsive, but its the recommended size.
 
-![event-main-images](/assets/event images-1.png)
+![event-main-images](./assets/event images-1.png)
 
 
 
@@ -29,7 +29,7 @@ You can set the styling/Customizations from Add/Edit Event page @TODO add link t
 
 ## **2. Event Page Design**
 
-![event-page-styling](/assets/event-page-styling.png)
+![event-page-styling](./assets/event-page-styling.png)
 
 
 
@@ -41,13 +41,13 @@ Below is examples when you hide the header, or and footer
 
 #### 	Example 1
 
-![event-page-noheader](/assets/event page progresif style.png)
+![event-page-noheader](./assets/event page progresif style.png)
 
 
 
 #### 	Example 2
 
-![event page without header with styles](/assets/event page watar.png)
+![event page without header with styles](./assets/event page watar.png)
 
 
 
@@ -73,7 +73,7 @@ Here you can see:
 * Footer Color
 * Finally the next button Colour And Text
 
-![Nice theaming 1](/assets/it can easyly be awseom.png)
+![Nice theaming 1](./assets/it can easyly be awseom.png)
 
 
 
@@ -87,7 +87,7 @@ What we have here, is Two main colours, and one mint colour
 * Note the Plus/Minus also changed
 * Even, Odd Rows in ticket list is also changed
 
-![progresif exmple](/assets/progresif buy ticket style.png)
+![progresif exmple](./assets/progresif buy ticket style.png)
 
 
 
@@ -95,13 +95,13 @@ What we have here, is Two main colours, and one mint colour
 
 Here for the next step, ticket form, it inherits all the settings
 
-![progresif ticket form](/assets/form prgresif with a style.png)
+![progresif ticket form](./assets/form prgresif with a style.png)
 
 
 
 **Caution, Now check the below, if the colours is not smooth you might end up with ugly buy process.**
 
-![ugly theme](/assets/it-can-easyly get corrupted.png)
+![ugly theme](./assets/it-can-easyly get corrupted.png)
 
 
 

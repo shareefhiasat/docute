@@ -14,8 +14,8 @@ You can style your <u>event</u>s to match you preferences.
 
 **Sajilni** has power, in customizing not only behaviour but also, your event look and feel, of **Event page** and **Buy Process**. [e.g Style Event Page and Buy Process.](http://localhost:8080/#/stylingTheming?id=style-event-page)
 
-* [Check How New Event Page Without Styling/Images Looks Like](/assets/event-before-any-customization.webm).
-* [Check How New Buy Ticket Without Styling/Images Looks Like.](/assets/buyticket-normal.png)
+* [Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm).
+* [Check How New Buy Ticket Without Styling/Images Looks Like.](./assets/buyticket-normal.png)
 
 
 
@@ -47,9 +47,9 @@ In addition to styling feature [Styling header, footer](/stylingTheming?id=styli
 
 1. Logo of size **182 X 97** (Recommended) with transparent background.
 
- [Example Sajilni Logo](https://www.sajilni.com/assets/resources/img/logo.png) 
+ [Example Sajilni Logo](https://www.sajilni.com./assets/resources/img/logo.png) 
 
-![sajilni-logo](https://www.sajilni.com/assets/resources/img/logo.png)
+![sajilni-logo](https://www.sajilni.com./assets/resources/img/logo.png)
 
 2. Facebook, page of your preference.
 
@@ -118,13 +118,13 @@ You can now ask for white labelling, Sign Up Too ([read more about sign up here]
 
    * Here is how **Sajilni** default sign up looks like
 
-![sign up](/assets/sign-up-theming.png)
+![sign up](./assets/sign-up-theming.png)
 
 
 
 #### 	5.1 Styling the [Event page](/home?id=_2-event-page)
 
-And you can check here [Style Event Page](/stylingTheming?id=_2-event-page-design) , how you may style it, but for further theming and white labelling, you can also, **White label Event Page** (This is only available for white  label plan, contact info@sajilni.com),  [here is how it looks like before any styling]([Check How New Event Page Without Styling/Images Looks Like](/assets/event-before-any-customization.webm)).
+And you can check here [Style Event Page](/stylingTheming?id=_2-event-page-design) , how you may style it, but for further theming and white labelling, you can also, **White label Event Page** (This is only available for white  label plan, contact info@sajilni.com),  [here is how it looks like before any styling]([Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm)).
 
 **Requirements**
 
@@ -169,7 +169,7 @@ And you can check here [Style Event Page](/stylingTheming?id=_2-event-page-desig
 
 As mentioned here [Styling Buy Ticket Process](/stylingTheming?id=_2-style-buying-process), you can style the buy process to some great extend, to give your own unique flavour, experience to buying.
 
-If you would like more, **White label** **Buy Ticket** (This is only available for white  label plan, contact info@sajilni.com),  [Check How New Buy Ticket Without Styling/Images Looks Like](/assets/buyticket-normal.png).
+If you would like more, **White label** **Buy Ticket** (This is only available for white  label plan, contact info@sajilni.com),  [Check How New Buy Ticket Without Styling/Images Looks Like](./assets/buyticket-normal.png).
 
 
 
