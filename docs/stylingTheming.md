@@ -2,7 +2,7 @@
 search: english
 ---
 
-# Sajilni Styling
+# Styling Sajilni Event Solution
 
 
 
@@ -118,7 +118,7 @@ To make things more great, there is no better way than nice email template, now 
     * Or on event level it self
     * Or if its printed as a badge, or ticket
 
-  For more details check [Ticket Builder](/home?id=_2-9-2-ticket-builder)
+  **For more details check [Ticket Builder](/home?id=_2-9-2-ticket-builder)**
 
 * [Email Template](https://www.sajilni.com/mail/build/build.html)
 
@@ -130,6 +130,8 @@ To make things more great, there is no better way than nice email template, now 
   * Ticket By Request Email Template(confirm, accept, and rejection)
   * Ticket Invitations Email Template
   * Ticket Published Email Template
+
+  **For more details check [Mail Builder](/home?id=_2-7-3-mail-builder)**
 
 * Customizable Registration Screen Template (**New Feature**)
 

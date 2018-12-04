@@ -21,29 +21,23 @@ docute.init({
   // repo: 'egoist/docute',
   // twitter: '_egoistlily',
   // 'edit-link': 'https://github.com/egoist/docute/blob/master/docs/',
-  tocVisibleDepth: 3,
-  nav: {
-    default: [
-      {
-        title: 'Home', path: '/home'
-      },
-      {
+
+  /*
+  * @TODO add later
+  * {
         title: 'Add Event', path: '/addEvent'
-      },
-      {
-        title: 'Styling/Theming', path: '/stylingTheming'
-      },
+      }
+
       {
         title: 'Buying Scenarios', path: '/buyingScenarios'
       }
+
       ,
       {
-        title: 'Scanning', path: '/scanning'
-      },
-      {
-        title: 'Languages', type: 'dropdown', items: langs
+        title: 'Scanning Tickets', path: '/scanning'
       }
-    ],
+
+      ,
     'ar-Jordan': [
       {
         title: 'الصفحة الرئيسية', path: '/ar-Jordan/'
@@ -56,6 +50,24 @@ docute.init({
       },
       {
         title: 'اللغة', type: 'dropdown', items: langs
+      }
+    ]
+
+      */
+  tocVisibleDepth: 4,
+  nav: {
+    default: [
+      {
+        title: 'Home', path: '/home'
+      },
+      {
+        title: 'Styling Sajilni', path: '/stylingTheming'
+      },
+      {
+        title: 'Customizing Sajilni', path: '/whitelabeling'
+      },
+      {
+        title: 'Languages', type: 'dropdown', items: langs
       }
     ]
   },
