@@ -2,46 +2,166 @@
 search: english
 ---
 
-# **Customizing Sajilni Event Solution**
+## **Customizing Sajilni Event Solution**
 
 With **Sajilni** you can **style**, **customize**, and Brand **white label** your events.
 
+---
+## Styling Sajilni Event Solution
 
+Sajilni has power, in customizing not only behaviour but also, your event look and feel, of **Event page** and **Buy Process**
 
-##  1. **Styling your Single Sajilni Event**
-
-You can style your <u>event</u>s to match you preferences.
-
-**Sajilni** has power, in customizing not only behaviour but also, your event look and feel, of **Event page** and **Buy Process**. [e.g Style Event Page and Buy Process.](http://localhost:8080/#/stylingTheming?id=style-event-page)
-
-* [Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm).
-* [Check How New Buy Ticket Without Styling/Images Looks Like.](./assets/buyticket-normal.png)
+* [Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm)
+* [Check How New Buy Ticket Without Styling/Images Looks Like](./assets/buyticket-normal.png)
 
 
 
-##  2. **Styling all your Sajilni Events**
+### 1. Style Event Page
+
+You can customize your **Event Page** for the following parts:
+
+### 1.1 **Event Images**
+
+You can set the styling/Customizations from Add/Edit Event page @TODO add link to add event, one thing to note here is the size of the image, although the site is responsive, but its the recommended size.
+
+![event-main-images](./assets/event images-1.png)
+
+
+
+
+
+### **1.2 Style Event Page Design**
+
+![event-page-styling](./assets/event-page-styling.png)
+
+
+
+Lets do example and all will be clear, of course we can try every possibility :) .
+
+###  1.3 Styling , Header, Footer, Colours, And Show or Hide, other parts
+
+Below is examples when you hide the header, or and footer
+
+#### 	1.3.1 Example 1
+
+![event-page-noheader](./assets/event page progresif style.png)
+
+
+
+#### 	1.3.2 Example 2
+
+![event page without header with styles](./assets/event page watar.png)
+
+
+
+
+
+
+
+## 3. Style Buying Process
+
+This part is so fun, because if you have your colours and logos, it will be like your site, but still it can be easily be ugly too, up to your styling.
+
+
+
+### 3.1 Example 1
+
+Here you can see:
+
+* Top left Logo
+* Berry colour for icons
+* Seating Canvas Background color
+* Footer Color
+* Finally the next button Colour And Text
+
+![Nice theaming 1](./assets/it can easyly be awseom.png)
+
+
+
+### 3.2 Example 2
+
+What we have here, is Two main colours, and one mint colour
+
+* Top left logo
+* Berry Icons Colors
+* Two Degrees of different Blues
+* Note the Plus/Minus also changed
+* Even, Odd Rows in ticket list is also changed
+
+![progresif exmple](./assets/progresif buy ticket style.png)
+
+
+
+### 3.3 **Ticket Form side**
+
+Here for the next step, ticket form, it inherits all the settings
+
+![progresif ticket form](./assets/form prgresif with a style.png)
+
+
+
+**Caution, Now check the below, if the colours is not smooth you might end up with ugly buy process.**
+
+![ugly theme](./assets/it-can-easyly get corrupted.png)
+
+
+
+## 4. Email Template
+
+To make things more great, there is no better way than nice email template, now you can customize your 
+
+### 4.1 [Ticket Template](https://www.sajilni.com/ticket/build/build.html)
+
+* Its customizable, Stylable, and can be on level of 
+  * Ticket Type
+  * Language
+  * Bought via POS, or Online
+  * Or on event level it self
+  * Or if its printed as a badge, or ticket
+
+**For more details check [Ticket Builder](/home?id=_2-9-2-ticket-builder)**
+
+### 4.2 [Email Template](https://www.sajilni.com/mail/build/build.html)
+
+* Ticket Email
+* Payment ConfirmationEmails
+  * Wire Transfer Email Template
+  * Cash On Delivery Email Template
+  * Paid Credit Card, etc.. Email Template
+* Ticket By Request Email Template(confirm, accept, and rejection)
+* Ticket Invitations Email Template
+* Ticket Published Email Template
+
+**For more details check [Mail Builder](/home?id=_2-7-3-mail-builder)**
+
+* Customizable Registration Screen Template (**New Feature**)
+
+
+
+
+##  5. **Styling all your Sajilni Events**
 
 From your own logged in profile, you can set a default flavour for your colours, logos for your <u>event</u>s.
 
-Same as [Styling your Single Sajilni Event](/stylingTheming?id=style-event-page),  and check [Where to do it](http://nimb.ws/l8Z2Gb) , this is more abstract, generic so you don't repeat same work for every event you own [Style All Your Events At Once](http://nimb.ws/1gPubB).
+Same as [Styling your Single Sajilni Event](/whitelabeling?id=style-event-page),  and check [Where to do it](http://nimb.ws/l8Z2Gb) , this is more abstract, generic so you don't repeat same work for every event you own [Style All Your Events At Once](http://nimb.ws/1gPubB).
 
 
 
-## 3. Customizing Sajilni Application
+## Theming/Branding Sajilni Application
 
-Now you can do Branding/White labeling with **Sajilni**, (This is only available for white  label plan, contact info@sajilni.com), your design, your rules.
+Now you can do Branding/White labelling with **Sajilni**, (This is only available for white  label plan, contact info@sajilni.com), your design, your rules.
 
 
 
-###  4. Styling Application header, Footer
+###  1. Styling Application header, Footer
 
 The **Header**, And **Footer** is one of the most important parts, in the system, because it appears on every page from **Home Page**, **Event Page**, and **Static Pages** too.
 
 
 
-#### 4.1 Header theming
+#### 1.1 Header theming
 
-In addition to styling feature [Styling header, footer](/stylingTheming?id=styling-header-footer-colours-and-show-or-hide-other-parts), you can also, **White label Header** (This is only available for white  label plan, contact info@sajilni.com):
+In addition to styling feature [Styling header, footer](/whitelabeling?id=styling-header-footer-colours-and-show-or-hide-other-parts), you can also, **White label Header** (This is only available for white  label plan, contact info@sajilni.com):
 
 **Requirements**
 
@@ -61,7 +181,7 @@ In addition to styling feature [Styling header, footer](/stylingTheming?id=styli
 
 
 
-#### 4.2 Header menu items
+#### 1.2 Header menu items
 
 As you know [this is the header that is on home page and all system main screen.](/home?id=_1-1-header)
 
@@ -71,9 +191,9 @@ As you know [this is the header that is on home page and all system main screen.
 
 
 
-#### 4.3 Footer theming
+#### 1.3 Footer theming
 
-In addition to styling feature [Footer](/home?id=_1-2-footer) where you can change in event page as example [read more here](/stylingTheming?id=_2-event-page-design), you can also, **White label Footer** (This is only available for white  label plan, contact info@sajilni.com):
+In addition to styling feature [Footer](/home?id=_1-2-footer) where you can change in event page as example [read more here](/whitelabeling?id=_2-event-page-design), you can also, **White label Footer** (This is only available for white  label plan, contact info@sajilni.com):
 
 **Requirements**
 
@@ -84,7 +204,7 @@ In addition to styling feature [Footer](/home?id=_1-2-footer) where you can chan
 
 
 
-#### 4.4 Footer static pages
+#### 1.4 Footer static pages
 
 Labels for, footers contains the following pages:
 
@@ -94,11 +214,11 @@ Labels for, footers contains the following pages:
 4. Terms and services.
 5. Privacy Policy.
 
-And here is how **Sajilni** Footer looks like [read more about footer](/stylingTheming?id=_2-event-page-design) and its styling .
+And here is how **Sajilni** Footer looks like [read more about footer](/whitelabeling?id=_2-event-page-design) and its styling .
 
 
 
-###  5. Styling the Signup page
+##  2. Styling the Signup page
 
 You can now ask for white labelling, Sign Up Too ([read more about sign up here](/home?id=_1-sign-up)):
 
@@ -122,14 +242,14 @@ You can now ask for white labelling, Sign Up Too ([read more about sign up here]
 
 
 
-#### 	5.1 Styling the [Event page](/home?id=_2-event-page)
+### 	2.1 Styling the [Event page](/home?id=_2-event-page)
 
-And you can check here [Style Event Page](/stylingTheming?id=_2-event-page-design) , how you may style it, but for further theming and white labelling, you can also, **White label Event Page** (This is only available for white  label plan, contact info@sajilni.com),  [here is how it looks like before any styling]([Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm)).
+And you can check here [Style Event Page](/whitelabeling?id=_2-event-page-design) , how you may style it, but for further theming and white labelling, you can also, **White label Event Page** (This is only available for white  label plan, contact info@sajilni.com),  [here is how it looks like before any styling]([Check How New Event Page Without Styling/Images Looks Like](./assets/event-before-any-customization.webm)).
 
 **Requirements**
 
-1. Header Styles (common component [read more](/stylingTheming?id=styling-header-footer-colours-and-show-or-hide-other-parts))
-2. Footer Styles (common component [read more](/stylingTheming?id=styling-header-footer-colours-and-show-or-hide-other-parts))
+1. Header Styles (common component [read more](/whitelabeling?id=styling-header-footer-colours-and-show-or-hide-other-parts))
+2. Footer Styles (common component [read more](/whitelabeling?id=styling-header-footer-colours-and-show-or-hide-other-parts))
 3. Main Buying button colour(Ideal same as the one used for [Sign Up](/whitelabeling?id=_5-styling-the-signup-page) )
 4. Size and Design for The Whole page including:
    1. Featured image part.
@@ -141,15 +261,15 @@ And you can check here [Style Event Page](/stylingTheming?id=_2-event-page-desig
 
 
 
-#### 	5.2 Styling the Organizer Page
+### 	2.2 Styling the Organizer Page
 
 [This organizer page](/home?id=_3-organizer-page) that shows all your organizers event, have similar theme, with some differences, to white label it consider the following requirements:
 
 **Requirements:**
 
-1. Header Styles (common component [read more](/stylingTheming?id=styling-header-footer-colours-and-show-or-hide-other-parts))
+1. Header Styles (common component [read more](/whitelabeling?id=styling-header-footer-colours-and-show-or-hide-other-parts))
 
-2. Footer Styles (common component [read more](/stylingTheming?id=styling-header-footer-colours-and-show-or-hide-other-parts))
+2. Footer Styles (common component [read more](/whitelabeling?id=styling-header-footer-colours-and-show-or-hide-other-parts))
 
 3. Main Buying button colour(Ideal same as the one used for [Sign Up](/whitelabeling?id=_5-styling-the-signup-page) )
 
@@ -165,9 +285,9 @@ And you can check here [Style Event Page](/stylingTheming?id=_2-event-page-desig
 5. Special Design/UI/UX ? , no problem just provide it to us.
 
 
-#### 	5.3 Styling the [Buy Ticket process](/home?id=_4-buy-ticket-process)
+### 	2.3 Styling the [Buy Ticket process](/home?id=_4-buy-ticket-process)
 
-As mentioned here [Styling Buy Ticket Process](/stylingTheming?id=_2-style-buying-process), you can style the buy process to some great extend, to give your own unique flavour, experience to buying.
+As mentioned here [Styling Buy Ticket Process](/whitelabeling?id=_2-style-buying-process), you can style the buy process to some great extend, to give your own unique flavour, experience to buying.
 
 If you would like more, **White label** **Buy Ticket** (This is only available for white  label plan, contact info@sajilni.com),  [Check How New Buy Ticket Without Styling/Images Looks Like](./assets/buyticket-normal.png).
 
@@ -200,7 +320,7 @@ If you would like more, **White label** **Buy Ticket** (This is only available f
 13. Also hide some buttons, is optional like browse other events, and Try another payment.
 
 
-####  	5.4 Custom [Payment](/home?id=_4-1-2-step-payment) Integration
+###  	2.4 Custom [Payment](/home?id=_4-1-2-step-payment) Integration
 
 At **Sajilni**, we have many payments methods, like PayPal, PayFort (@TODO add links to payement at sajilni), Still you can ask for your own payment gateway integration, for this regards, we shall need more technical details, about the API, Docs and we will implement it.
 
@@ -208,13 +328,13 @@ Another great thing is, you can provide us your bank account for these gateways 
 
 
 
-###  6. Email Communication
+##  3. Email Communication
 
 Communication is very important, Email is of course one of them, that's why we thought about it too.
 
 If you would like more, **White label** **Emails** (This is only available for white  label plan, contact info@sajilni.com), [Check Contact Us](/home?id=contact-us).
 
-#### 	6.1 [Signup](/home?id=_1-sign-up) Email
+### 	3.1 [Signup](/home?id=_1-sign-up) Email
 
 First step is first, at **Sajilni** you can sign up, and of course emails is there to help, you will get a confirmation email in your inbox, to confirm your sign up.
 
@@ -243,7 +363,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 9. Email Reply To.
 
 
-#### 	6.2 Order confirmation email (Pre-payment)
+### 	3.2 Order confirmation email (Pre-payment)
 
 Now the fun part, Some one placed a post paid order, this has its own template as well, and you can check our default **Sajilni**, for Cash On Delivery, or Wire Transfer email template as example.
 
@@ -265,7 +385,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 
 
 
-#### 	6.3 Payment Confirmation email
+### 	3.3 Payment Confirmation email
 
 Yes, you got it right, some one paid to buy some cool event tickets, he shall receive another email as invoice so lets see **Sajilni** default Payment Confirmation Email [like this email e.g](http://nimb.ws/GPlwWD).
 
@@ -292,7 +412,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 9. Email Reply To.
 
 
-#### 	6.4 Ticket Confirmation Email
+### 	3.4 Ticket Confirmation Email
 
 When some one buys a ticket, he will get his tickets right ? well for this part we at **Sajilni**, have Email for ticket confirmation [Check example](http://nimb.ws/6D1la5), which will have attachments, for his tickets ( This is also customizable [Check this ticket e.g](http://nimb.ws/QcTvOx)).
 
@@ -319,7 +439,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 9. Email Reply To
 
 
-#### 	6.5 Invitation Email
+### 	3.5 Invitation Email
 
 This kind of email is related to tickets that you want to sell by invitations sent via email, client will find a button to click and continue his buying, this special email template is the first email we talk about that has buttons to interact besides [Sign Up so far](/whitelabeling?id=_5-styling-the-signup-page).
 
@@ -348,7 +468,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 10. Buttons Colour for Yes, And No
 
 
-#### 	6.6 By Request Email
+### 	3.6 By Request Email
 
 At some situations when you want to filter your clients, and carefully pick them for some approvals, this is what you need, we have **3 Email Templates** for request;
 
@@ -384,7 +504,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 9. Email Reply To
 
 
-#### 	6.7 User Creation Email
+### 	3.7 User Creation Email
 
 Ok so you do wanna create your users under your control to sell, or follow-up may be just monitor etc..., you can do that at **Sajilni** , where you can manage users, create, edit or delete.
 
@@ -407,7 +527,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 
 
 
-#### 	6.8 Newsletter
+### 	3.8 Newsletter
 
 On demand to keep your clients up to date and new, with you we offer this as email to be sent on defined schedule, to your loyal clients.
 
@@ -427,7 +547,7 @@ If you would like more, **White label** **Emails** (This is only available for w
 
 
 
-###  7. Default PDF Ticket Templates
+##  4. Default PDF Ticket Templates
 
 This concept is easy, yet very powerful,  it gives you the ability to distinguish the Ticket templates, by:
 
@@ -454,7 +574,7 @@ If you would like more, **White label** **Default Ticket Templates**  is here to
 
 
 
-#### 	7.1 POS Tickets
+### 	4.1 POS Tickets
 
 You have the ability to create, print as **POS** means you can have different templates for the tickets:
 
@@ -489,7 +609,7 @@ If you would like more, **White label POS Default tickets**  is here to help, (T
 
 
 
-#### 	7.2 E-Tickets
+### 	4.2 E-Tickets
 
 You also can create, print as **E-Ticket** means you can have different templates for the tickets,**Get bought from online client. [E- TICKETS]**
 
@@ -521,7 +641,7 @@ If you would like more, **White label E-tickets**  is here to help, (This is onl
 
 
 
-## 3. Custom Home page
+## 5. Custom Home page
 
 As we mentioned before [Home Page](/home?id=_1-home-page) has 2 parts to begin with:
 
@@ -538,7 +658,7 @@ You can also have your own home page Design, or Style, If you would like more, *
 4. Google Analytics code.
 5. You own help integration/ or we can provide ( **Sajilni** uses [Zendesk](http://nimb.ws/FBAoch)).
 
-## 4. Scanning Application branding
+## 6. Scanning Application branding
 
 **Sajilni** has powerful, yet customizable [Android scanning app](http://nimb.ws/a8YelD), it works offline, and do checking, and checkout too, lots of permissions, and monitoring as well.
 
@@ -552,7 +672,7 @@ If you would like more, **White label Scanning APP branding**  is here to help, 
 
 
 
-## 6. Dialogue Messages
+## 7. Dialogue Messages
 
 **Sajilni** provides a lot of messages to right the UX, for clients, its localized and every where, you may customize, change content for any message in the system, for example, when someone requests a tickets by request, it says: 
 

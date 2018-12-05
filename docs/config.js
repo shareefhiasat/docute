@@ -61,9 +61,6 @@ docute.init({
         title: 'Home', path: '/home'
       },
       {
-        title: 'Styling Sajilni', path: '/stylingTheming'
-      },
-      {
         title: 'Customizing Sajilni', path: '/whitelabeling'
       },
       {

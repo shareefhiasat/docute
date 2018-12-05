@@ -817,7 +817,7 @@ Create customize your tickets, either you wanted,
 
 ![ticket-builder](./assets/ticket-builder-1.png)
 
-[Ticket Builder Short Vedio]("./assets/ticket-builder-3.webm")
+[Ticket Builder Short Vedio](./assets/ticket-builder-3.webm")
 
 
 
