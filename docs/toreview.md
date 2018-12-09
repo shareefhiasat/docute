@@ -62,3 +62,41 @@ search: english
 | cont... Footer             | Y     | Y    | N     | Y    |                      | Hex Colour, and fonts, and size in following priority , eot, woff, ttf, all for best results across all devices. |
 | 20.  Footer Buttons        | Y     | Y    | N     | Y    |                      | Hex Colour, for both **help, and top icon**                  |
 
+
+
+## 3. Buy Ticket Process
+
+
+
+
+
+![Buy Ticket Process](https://res.cloudinary.com/shareefhiasat/image/upload/v1544371369/sajilni-docs-resources/buyprocess-help-docs-min.jpg)
+
+
+
+| # Part                           | Color | Font | Image | Hide | Extra                                                        | Requirements                                                 |
+| -------------------------------- | ----- | ---- | ----- | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1.Header                         | Y     | N    | N     | N    |                                                              | Hex Colour                                                   |
+| 2. Logo Top-Left                 | N     | N    | Y     | Y    | **Logo size 182X97**                                         | Transparent back ground Logo image                           |
+| 3. Logo Center                   | N     | N    | Y     | Y    | **Logo size 1000X100**                                       | Transparent back ground Logo image, if used then no top-left or top-right should be added it will cover whole header |
+| 4. Logo Top-right                | N     | N    | Y     | Y    | **Logo size 182X97**                                         | Transparent back ground Logo image                           |
+| 5. Event title/details           | Y     | N    | N     | Y    |                                                              | Hex Colour, and other colour for **icons**                   |
+| 6. Event Image                   | N     | N    | Y     | Y    |                                                              | Add Image for event                                          |
+| 7.Even rows                      | Y     | N    | N     | N    |                                                              | Hex Colour                                                   |
+| 8. Odd rows                      | Y     | N    | N     | N    |                                                              | Hex Colour                                                   |
+| 9. Text Colour                   | Y     | N    | N     | N    | [You Can Use This](http://res.cloudinary.com/shareefhiasat/image/upload/v1544360906/sajilni-docs-resources/ckeditor-usage.png) | Hex Colour                                                   |
+| 10. Spinner                      | Y     | N    | N     | N    | 3 Colours                                                    | **3 Hex Colour**, for + ,- and the middle quantity box       |
+| 11. Footer                       | Y     | N    | N     | N    |                                                              | Hex Colour                                                   |
+| 12. Next Button, at bottom right | Y     | N    | N     | N    | Any Custom Text                                              | Hex Colour                                                   |
+| 13. Print Buttons Text           |       |      |       |      |                                                              |                                                              |
+| 14. Print Button Text Colour     |       |      |       |      |                                                              |                                                              |
+| 15.Print Button Colour           |       |      |       |      |                                                              |                                                              |
+| 16.Close Button Colour           |       |      |       |      |                                                              |                                                              |
+| 17.Close Buttons Text            |       |      |       |      |                                                              |                                                              |
+| 18. Close Button Text Colour     |       |      |       |      |                                                              |                                                              |
+| 19.Steps Bullet Colour           |       |      |       |      |                                                              |                                                              |
+| 20.Buying Body Colour            |       |      |       |      |                                                              |                                                              |
+| 21.Back Button Colour            |       |      |       |      |                                                              |                                                              |
+| 22.Back Buttons Text             |       |      |       |      |                                                              |                                                              |
+| 23.Back Button Text Colour       |       |      |       |      |                                                              |                                                              |
+| 24.Form Background Colour        |       |      |       |      |                                                              |                                                              |
