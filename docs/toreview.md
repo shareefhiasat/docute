@@ -141,17 +141,13 @@ search: english
 | 8. Add to calendar           | Y      | Y    | N     | Y    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
 | 9. Footer                    | Y      | Y    | N     | Y    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
 
-## 4. Organizer Page
+
+
+## 4. Ticket Template
 
 
 
-
-
-## 5. Ticket Template
-
-
-
-### 5.1 POS Default Template
+### 4.1 POS Default Template
 
 ![1544378285503](https://res.cloudinary.com/shareefhiasat/image/upload/v1544378414/sajilni-docs-resources/default-post.jpg)
 
@@ -164,7 +160,7 @@ search: english
 | Size of ticket      | N      | N    | N     | N    |                                                              | 175.006mm X 110mm                                            |
 | **Features**        | Y      | Y    | Y     | Y    | Easy drag drop, resize, with lots of properties, and there is off the shelf dynamic  variables | You can do changes to any content, colour, font style etc.. WYSIWYG |
 
-### 5.2 POS Custom Template
+### 4.2 POS Custom Template
 
 ![pos custom template](https://res.cloudinary.com/shareefhiasat/image/upload/v1544378773/sajilni-docs-resources/pos-ticket-template.jpg)
 
@@ -179,7 +175,7 @@ search: english
 
 
 
-### 5.3 A4 size Default Ticket ( Attached in Ticket Confirmation Email)
+### 4.3 A4 size Default Ticket ( Attached in Ticket Confirmation Email)
 
 ![default-ticket-A4](https://res.cloudinary.com/shareefhiasat/image/upload/v1544379183/sajilni-docs-resources/A4-step-email-ticket.jpg)
 
