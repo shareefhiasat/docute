@@ -61,9 +61,6 @@ docute.init({
         title: 'Home', path: '/home'
       },
       {
-        title: 'Customizing Sajilni', path: '/whitelabeling'
-      },
-      {
         title: 'Languages', type: 'dropdown', items: langs
       }
     ]
