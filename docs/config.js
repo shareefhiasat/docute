@@ -61,6 +61,9 @@ docute.init({
         title: 'Home', path: '/home'
       },
       {
+        title: 'Work In Progress', path: '/toreview'
+      },
+      {
         title: 'Languages', type: 'dropdown', items: langs
       }
     ]
