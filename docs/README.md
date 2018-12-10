@@ -1,10 +1,4 @@
----
-search: english
----
-
-# Sajilni.com
-
-![sajilni logo](./assets/Sajilni-logo-with-url.png) 
+# ![sajilni logo](./assets/Sajilni-logo-with-url.png) 
 
 Sajilni.com is an online event management and e-ticketing platform that  enables event organizers, promoters and venue owners to sell tickets in a click of a button.
 
@@ -19,7 +13,7 @@ Sajilni solution can be customized at levels based on your event needs
 
 
 
-### **1) White Labeling Sajilni Application**
+## **I) White Labeling Sajilni Application**
 
 Sajilni white label solution can be used by organizers to integrate into their website , sell tickets and process transactions with total control.
 
@@ -27,11 +21,11 @@ Organizers will have their  subdomain ([clientname].sajilni.com) and can enjoy t
 
 For more info about our white label solution please contact us  [here](https://www.sajilni.com/info/contact-us.html). 
 
-##### 1. Header & Footer Styling
+### 1. Header & Footer Styling
 
 Fully customizable **Header** and **Footer** to suit the look and feel of your brand.
 
-##### 1.1 Header Styling
+#### 1.1 Header Styling
 
 **Requirements** **for customizing the header** 
 
@@ -45,7 +39,7 @@ Fully customizable **Header** and **Footer** to suit the look and feel of your b
 2. Your brand font.
 3. Background color.
 
-##### 1.2 Header Menu 
+#### 1.2 Header Menu 
 
 Customizing the header menu includes, and not limited to the following :
 
@@ -53,7 +47,7 @@ Customizing the header menu includes, and not limited to the following :
 2. **Sell with us**
 3. Show/Hide **Login**, and **Signup page**
 
-##### 1.3 Footer Menu 
+#### 1.3 Footer Menu 
 
 Customizing the footer menu includes, and not limited to the following : 
 
@@ -62,7 +56,7 @@ Customizing the footer menu includes, and not limited to the following :
 3. Help Button (Integrating with your help desk platform if available ) 
 4. Colors used on the footer
 
-##### 1.4 Footer Menu Static Pages
+#### 1.4 Footer Menu Static Pages
 
 Customizing the content of the static menu pages 
 
@@ -74,7 +68,7 @@ Customizing the content of the static menu pages
 6. Sell with us
 7. Pricing      
 
-##### 2. Signup Page Styling
+### 2. Signup Page Styling
 
 Customize the sign-up page to match the color and theme of your brand
 
@@ -84,7 +78,7 @@ Customize the sign-up page to match the color and theme of your brand
 4. Customize the pop-messages after the user submits his request
 5. Fully customizable email communication for sign up confirmations  
 
-##### 3. Event page Styling
+### 3. Event page Styling
 
 Brand your ticketing page with your event artwork , brand colors, logo, videos and pictures etc..
 
@@ -106,7 +100,7 @@ Brand your ticketing page with your event artwork , brand colors, logo, videos a
 
    5. Font to use in this page ( Ideally this affect only the [sticky part](/home?id=_2-2-information-bar-sticky), because the details of the event can be formatted with special editor in add event).
 
-      ##### **How it works :**
+      #### How it works :
 
    ![event page design](https://res.cloudinary.com/shareefhiasat/image/upload/v1544368831/sajilni-docs-resources/Event_page_help-docs.jpg)
 
@@ -137,7 +131,7 @@ Brand your ticketing page with your event artwork , brand colors, logo, videos a
 | cont... Footer             | Y      | Y    | N     | Y    |                      | Hex Colour, and fonts, and size in following priority , eot, woff, ttf, all for best results across all devices. |
 | 20.  Footer Buttons        | Y      | Y    | N     | Y    |                      | Hex Colour, for both help, and top icon, ,= and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
 
-##### 4. Styling the Organizer Page
+### 4. Styling the Organizer Page
 
 This page displays all the events that are published by the organizer.
 
@@ -152,7 +146,7 @@ This page displays all the events that are published by the organizer.
    4. Font to use in this page.
    5. If any special UI/UX design is provided our technical team can work on it
 
-##### 5. Styling the Buy Ticket process
+### 5. Styling the Buy Ticket process
 
 Add your own theme, logo and colors on the buy tickets process as shown below; 
 
@@ -207,17 +201,17 @@ Add your own theme, logo and colors on the buy tickets process as shown below;
 | 20.2 Back Buttons Text           | N      | N    | N     | N    | Text Only                                                    |                                                              |
 | 20.3 Back Button Text Colour     | Y      | N    | N     | N    |                                                              | Hex Colour                                                   |
 
-##### 6. Custom Payment Integration
+### 6. Custom Payment Integration
 
 Sajilni offers different online payment methods to the organizer such as  Credit Card (Visa,Mastercard, Amex) and Paypal.  We also offer the option to integrate with the organizers' payment gateway.
 
 Our technical team will support throughout the process of integration.  For more info [please contact us.]()
 
-##### 7. Email Communication Templates
+### 7. Email Communication Templates
 
 Organizers can communicate with their attendees with our automated email response, the content, design is customizable to reflect the look & feel of the brand .
 
-##### **7.1 Signup Email**
+#### **7.1 Signup Email**
 
 ##### To customize the signup email:
 
@@ -233,7 +227,7 @@ Organizers can communicate with their attendees with our automated email respons
 
 · Email address used (example) [info@sajilni.com](mailto:info@sajilni.com) .
 
-##### 7.2 Order Confirmation Email
+#### 7.2 Order Confirmation Email
 
 Order Confirmation Emails are sent once the buyer places an order for an event.
 
@@ -251,7 +245,7 @@ Order Confirmation Emails are sent once the buyer places an order for an event.
 
 · Email address used (example) [info@sajilni.com](mailto:info@sajilni.com) .
 
-##### 7.3 Payment Confirmation Email
+#### 7.3 Payment Confirmation Email
 
  The payment confirmation email is automatically sent once a buyer pays for his ticket/registration. 
 
@@ -265,7 +259,7 @@ Order Confirmation Emails are sent once the buyer places an order for an event.
 6. Email Sender ( From)
 7. Email address used (example) [info@sajilni.com](mailto:info@sajilni.com) .
 
-##### **7.4 Ticket Confirmation Email** 
+#### **7.4 Ticket Confirmation Email** 
 
 The ticket confirmation email is automatically sent once a user receives the e-ticket. 
 
@@ -281,7 +275,7 @@ The ticket confirmation email is automatically sent once a user receives the e-t
 
    Note : Customizations is only available for white label solutions
 
-##### 7.5 Invitation Emails (RSVP)
+#### 7.5 Invitation Emails (RSVP)
 
 Invitation Emails are RSVP based emails where buyers have two options to respond to the invitation  either Confirm or Decline; incase the invitation is confirmed the buyer continues with the registration/ buying process incase the invitation is declined the organizer can track the response.
 
@@ -296,7 +290,7 @@ Invitation Emails are RSVP based emails where buyers have two options to respond
 7. Email address used (example) [info@sajilni.com](mailto:info@sajilni.com) .
 8. Buttons Color for confirming the invitation.
 
-##### 7.6 By Request Email
+#### 7.6 By Request Email
 
 The By Request ticket type is used when the organizer requests pre-approval of attendees based on a certain criteria ( admin pre-approval)
 
@@ -316,7 +310,7 @@ The By Request ticket type is used when the organizer requests pre-approval of a
 6. Email Sender ( From)
 7. Email address used (example) [info@sajilni.com](mailto:info@sajilni.com) .
 
-##### 7.8 User Creation Email
+#### 7.8 User Creation Email
 
 As an admin for the event page you can create users to sell, follow-up or just monitor ticket sales . You can manage users, create, edit or delete.
 
@@ -333,7 +327,7 @@ When you create users they will receive an email with their credentials to login
 7. Email address used (example) [info@sajilni.com]
 8. Buttons Color 
 
-##### 7.9 Newsletter
+#### 7.9 Newsletter
 
 Keeping your clients up to date with new events , reminders about the event etc.. you can send newsletters and customize the content.
 
@@ -349,7 +343,7 @@ Keeping your clients up to date with new events , reminders about the event etc.
 6. Email Sender ( From)
 7. Email address used (example) [info@sajilni.com].
 
-##### 8. Default PDF Ticket Templates
+### 8.  Ticket Templates
 
 Customize the ticket templates according to your event theme and branding (colors, fonts , images ,language, terms & conditions).
 
@@ -380,7 +374,7 @@ Customize the ticket templates according to your event theme and branding (color
 6. Any Shape as Design, Colour, Font Size, UI.
 7. Content
 
-##### Sample of customized e-tickets
+#### 8.1 Sample of customized e-tickets
 
 ![default-ticket-A4](https://res.cloudinary.com/shareefhiasat/image/upload/v1544379183/sajilni-docs-resources/A4-step-email-ticket.jpg)
 
@@ -392,7 +386,7 @@ Customize the ticket templates according to your event theme and branding (color
 | 4. Ticket Type       | Y      | Y    | N     | Y    | Auto generated                    | Fully Stylable   |
 | 5. Logo              | Y      | Y    | Y     | Y    | You can put any footer/logo etc.. | Fully Stylable   |
 
-##### 9.1 Point of Sale Tickets
+#### 8.2 Point of Sale Tickets
 
 Sajilni platform allows you to create templates for point of sale tickets ( tickets sold at point of sale or on event day )
 
@@ -408,7 +402,7 @@ Sajilni platform allows you to create templates for point of sale tickets ( tick
 
 
 
-##### **9.2 POS Custom Template**
+#### **8.3 POS Custom Template**
 
 ![pos custom template](https://res.cloudinary.com/shareefhiasat/image/upload/v1544378773/sajilni-docs-resources/pos-ticket-template.jpg)
 
@@ -421,7 +415,7 @@ Sajilni platform allows you to create templates for point of sale tickets ( tick
 | 3. and 4. Size of ticket | N      | N    | N     | Y    | Auto generated                                               | 40mm X 20mm                                                  |
 | **Features**             | Y      | Y    | Y     | Y    | Easy drag drop, resize, with lots of properties, and there is off the shelf dynamic  variables | You can do changes to any content, color, font style etc.. WYSIWYG |
 
-##### 10. Custom Home page
+### 9. Custom Home page
 
 Display all of your events through your own homepage design and theme.
 
@@ -457,7 +451,7 @@ Homepage design includes the following customizations:
 | 13. Footer                   | Y      | Y    | N     | Y    |                      | Hex Colour, and fonts, and size in following priority , eot, woff, ttf, all for best results across all devices. |
 | 14. Footer Buttons           | Y      | Y    | N     | Y    |                      | Hex Colour, for both **help, and top icon**                  |
 
-##### 11. Scanning Application branding
+### 10. Scanning Application branding
 
 **Sajilni** has powerful, yet customizable [Android scanning app](http://nimb.ws/a8YelD), the application includes many features such as 
 
@@ -475,7 +469,7 @@ Homepage design includes the following customizations:
 2. Main Color for the APP.
 3. Mint Color for the APP.
 
-##### 12. Dialogue Messages
+### 11. Dialogue Messages
 
 Any message can be customized in the platform 
 
