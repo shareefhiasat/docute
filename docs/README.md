@@ -19,7 +19,7 @@ Sajilni solution can be customized at levels based on your event needs
 
 
 
-### **I) White Labeling Sajilni Application**
+### **1) White Labeling Sajilni Application**
 
 Sajilni white label solution can be used by organizers to integrate into their website , sell tickets and process transactions with total control.
 
