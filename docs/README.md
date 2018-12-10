@@ -1,7 +1,9 @@
-# ![sajilni logo](./assets/Sajilni-logo-with-url.png) 
+# ![sajilni logo](./assets/Sajilni-logo-with-url.png)Sajilni
+
+#  
 
 Sajilni.com is an online event management and e-ticketing platform that  enables event organizers, promoters and venue owners to sell tickets in a click of a button.
- 
+
 Sajilni has expanded its offerings and capitalized on the latest trends in ticketing technologies to
 serve the event organizers needs by offering its software as a white label ticketing solution.
 
@@ -13,7 +15,7 @@ Sajilni solution can be customized at levels based on your event needs
 
 
 
-## **I) White Labeling Sajilni Application**
+## **I) White Labelling Sajilni Application**
 
 Sajilni white label solution can be used by organizers to integrate into their website , sell tickets and process transactions with total control.
 
