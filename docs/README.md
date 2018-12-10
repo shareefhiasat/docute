@@ -1,6 +1,4 @@
-# ![sajilni logo](./assets/Sajilni-logo-with-url.png)Sajilni
-
-#  
+# ![sajilni logo](./assets/Sajilni-logo-with-url.png). 
 
 Sajilni.com is an online event management and e-ticketing platform that  enables event organizers, promoters and venue owners to sell tickets in a click of a button.
 
@@ -15,7 +13,7 @@ Sajilni solution can be customized at levels based on your event needs
 
 
 
-## **I) White Labelling Sajilni Application**
+## **I) White Labeling Sajilni Application**
 
 Sajilni white label solution can be used by organizers to integrate into their website , sell tickets and process transactions with total control.
 
@@ -80,7 +78,7 @@ Customize the sign-up page to match the color and theme of your brand
 4. Customize the pop-messages after the user submits his request
 5. Fully customizable email communication for sign up confirmations  
 
-### 3. Event page Styling
+### 3. Event Page Styling
 
 Brand your ticketing page with your event artwork , brand colors, logo, videos and pictures etc..
 
@@ -133,7 +131,7 @@ Brand your ticketing page with your event artwork , brand colors, logo, videos a
 | cont... Footer             | Y      | Y    | N     | Y    |                      | Hex Colour, and fonts, and size in following priority , eot, woff, ttf, all for best results across all devices. |
 | 20.  Footer Buttons        | Y      | Y    | N     | Y    |                      | Hex Colour, for both help, and top icon, ,= and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
 
-### 4. Styling the Organizer Page
+### 4. Organizer Page Styling
 
 This page displays all the events that are published by the organizer.
 
@@ -148,7 +146,7 @@ This page displays all the events that are published by the organizer.
    4. Font to use in this page.
    5. If any special UI/UX design is provided our technical team can work on it
 
-### 5. Styling the Buy Ticket process
+### 5.  "Buy Ticket" process Styling
 
 Add your own theme, logo and colors on the buy tickets process as shown below; 
 
@@ -233,7 +231,7 @@ Organizers can communicate with their attendees with our automated email respons
 
 Order Confirmation Emails are sent once the buyer places an order for an event.
 
-##### Requirements to customize the Order Confirmation Emails:
+#### Requirements to customize the Order Confirmation Emails:
 
 . Design of the email (Logo, images).
 
@@ -246,6 +244,24 @@ Order Confirmation Emails are sent once the buyer places an order for an event.
 ·  Email Sender ( From).
 
 · Email address used (example) [info@sajilni.com](mailto:info@sajilni.com) .
+
+
+![Order confirmed](https://res.cloudinary.com/shareefhiasat/image/upload/v1544377303/sajilni-docs-resources/OrderConfirmed-numbered_1.jpg)
+
+
+
+| # Part                       | Colour | Font | Image | Hide | Extra                                  | Requirements                                                 |
+| ---------------------------- | ------ | ---- | ----- | ---- | -------------------------------------- | ------------------------------------------------------------ |
+| 1.Banner                     | Y      | N    | Y     | Y    | Dimension Free, with respect to ratio. | Hex Colour, Image Transparent Colour                         |
+| 2. Header                    | Y      | Y    | Y     | Y    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+| 3. Buyer Section             | Y      | Y    | N     | Y    |                                        | Change Any Text, , and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+| 4. Main Background           | Y      | N    | N     | N    |                                        | Hex Colour                                                   |
+| 5. Sub Section               | Y      | Y    | N     | N    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+| 6. Sub Section Inner Box     | Y      | Y    | N     | N    |                                        | Hex Colour, , and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+| 7. Sub Section Inner Sub Box | Y      | N    | N     | N    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+| 8. Add to calendar           | Y      | Y    | N     | Y    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+| 9. Footer                    | Y      | Y    | N     | Y    |                                        | Hex Colour, and fonts and size in following priority , eot, woff, ttf, all for best results across all devices. |
+
 
 #### 7.3 Payment Confirmation Email
 
@@ -332,8 +348,6 @@ When you create users they will receive an email with their credentials to login
 #### 7.9 Newsletter
 
 Keeping your clients up to date with new events , reminders about the event etc.. you can send newsletters and customize the content.
-
-
 
 **White label requirements :**
 
@@ -430,7 +444,7 @@ Homepage design includes the following customizations:
 5. Customer support help integration.
 6. Header & Footer 
 
-####  
+
 
 ![event Home page design](http://res.cloudinary.com/shareefhiasat/image/upload/v1544368815/sajilni-docs-resources/Home_page_help-docs.jpg)
 
@@ -483,6 +497,6 @@ The above content can be customized
 
   
 
-**General Note:**
+**Important Note:** 
 
-***Please submit any design in AI format or send the Hex codes and font face in a regular file**
+***For Customization requests please submit any design in AI format or send the Hex codes and font face in a regular file**.
