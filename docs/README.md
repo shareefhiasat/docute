@@ -2,7 +2,9 @@
 search: english
 ---
 
-# ![sajilni logo](./assets/Sajilni-logo-with-url.png) 
+# Sajilni.com
+
+![sajilni logo](./assets/Sajilni-logo-with-url.png) 
 
 Sajilni.com is an online event management and e-ticketing platform that  enables event organizers, promoters and venue owners to sell tickets in a click of a button.
 
