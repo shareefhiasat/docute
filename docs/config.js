@@ -1,5 +1,5 @@
 const langs = [
-  { title: 'English', path: '/home', matchPath: /^\/(home|addEvent|stylingTheming)/ },
+  { title: 'English', path: '/home', matchPath: /^\/(home|addEvent|stylingTheming|req)/ },
   { title: 'العربية', path: '/ar-Jordan/', matchPath: /^\/ar-Jordan/ }
 ]
 
@@ -59,6 +59,9 @@ docute.init({
     default: [
       {
         title: 'Home', path: '/home'
+      },
+      {
+        title: 'Requirments', path: '/requirments'
       },
       {
         title: 'Languages', type: 'dropdown', items: langs
